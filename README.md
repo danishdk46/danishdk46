@@ -13,7 +13,6 @@
 </a>
 </div>
 
-<img src="./banner.png" alt="Cloud-Note Banner" width="10000">
 <br>
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="left" >My Name is Danish</h3>
@@ -69,4 +68,4 @@ height="25" /></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishdk46)](https://github.com/danishdk46/github-readme-stats)
-[![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishdk46)](https://github.com/danishdk46/github-readme-stats)
+[![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishdk46)](https://github.com/danishdk46/github-readme-stats)
