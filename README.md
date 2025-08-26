@@ -67,5 +67,3 @@ height="25" /></a>
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishdk46)](https://github.com/danishdk46/github-readme-stats)
-[![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishdk46)](https://github.com/danishdk46/github-readme-stats)
