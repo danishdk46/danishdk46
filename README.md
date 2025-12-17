@@ -22,7 +22,7 @@
 <br>
 <br>
 
-<p align="left">- 📚 I have completed my Bachelors from UET Lahore.<br>- 🔭 I have worked as a Software Engineer Intern at DevisersTech and looking for a full-time role now <br>- 📚 I'm currently learning ML/AI</p>
+<p align="left">- 📚 I have completed my Bachelors from UET Lahore.<br>- 🔭 I have worked as a Software Engineer Intern at DevisersTech and looking for a full-time role now <br>- 📚 I'm currently working at MapFintech as Junior Software Engineer</p>
 
 <br>
 <br>
