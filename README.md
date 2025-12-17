@@ -22,7 +22,7 @@
 <br>
 <br>
 
-<p align="left">- 📚 I have completed my Bachelors from UET Lahore.<br>- 🔭 I'm currently working at MapFintech as Junior Software Engineer <br>- 📚 </p>
+<p align="left">- 📚 I have completed my Bachelors from UET Lahore.<br>- 🔭 I'm currently working at MapFintech as Junior Software Engineer <br></p>
 
 <br>
 <br>
